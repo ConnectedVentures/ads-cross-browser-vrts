@@ -6,17 +6,39 @@ The tests run with Gemini, using a tunnel to Browserstack through a Gemini plugi
 
 ## Running the tests
 
-To run the test, simply use the command
+When running the tests for the first time, you will require golden images to compare with. These are stored in this GCP bucket gs://bruce-vrt-test-testing/cross-browser/
+
+You can download the golden images to the correct folder in the project using the command
+
+```
+npm run download-golden
+```
+
+Next, to run the test simply use the command
 
 ```
 gemini test
 ```
 
-To update your golden images, or to run for the first time, use the command
+To update the golden images locally, use the command
 
 ```
 gemini update
 ```
+
+You can then upload these to the bucket using the command
+
+```
+npm run upload-golden
+```
+
+Alternatively, you can run the update and upload together with the command
+
+```
+npm run update-golden
+```
+
+Please be aware that the golden images must be kept as much as possible to the ideal state of the ads. Therefore, do not update the golden images if they contain visual bugs until the bugs are resolved, if you can avoid. Other people may be using the golden images, assuming they are representative of the ideal state. Use personal judgement tho.
 
 ## Configuring for Browsers
 

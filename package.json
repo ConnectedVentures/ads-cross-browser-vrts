@@ -11,7 +11,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "download-golden": "gsutil -m cp -r gs://bruce-vrt-test-testing/cross-browser/Screens/* gemini/Screens/",
+    "upload-golden": "gsutil -m cp -r gemini/Screens/* gs://bruce-vrt-test-testing/cross-browser/",
+    "update-golden": "gemini update && gsutil -m cp -r gemini/Screens/* gs://bruce-vrt-test-testing/cross-browser/"
   },
   "author": "Bruce",
   "license": "ISC"
