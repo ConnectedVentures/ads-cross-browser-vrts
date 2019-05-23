@@ -1,0 +1,18 @@
+{
+  "name": "gemtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".gemini.js",
+  "dependencies": {
+    "browserstack": "^1.5.2",
+    "gemini": "^7.4.1",
+    "gemini-browserstack": "^1.1.0",
+    "html-reporter": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce",
+  "license": "ISC"
+}

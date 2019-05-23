@@ -1,0 +1,170 @@
+[
+    {
+        "config": "MPU_Score-1-0",
+        "size": {
+            "width": 300,
+            "height": 250
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Mobile-Leaderboard_Score-1-0",
+        "size": {
+            "width": 320,
+            "height": 50
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Billboard_Score-1-0",
+        "size": {
+            "width": 970,
+            "height": 250
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Large-MPU_Score-1-0",
+        "size": {
+            "width": 300,
+            "height": 600
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Leaderboard_Event-List-1-0",
+        "size": {
+            "width": 728,
+            "height": 90
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Large-MPU_Event-List-1-0",
+        "size": {
+            "width": 300,
+            "height": 600
+        },
+        "sport": "football"
+    },
+    {
+        "config": "MPU_Event-Promo-1-0",
+        "size": {
+            "width": 300,
+            "height": 250
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Large-MPU_Event-Promo-1-0",
+        "size": {
+            "width": 300,
+            "height": 600
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Billboard_Event-Promo-1-0",
+        "size": {
+            "width": 970,
+            "height": 250
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Mobile-Leaderboard_Event-Promo-1-0",
+        "size": {
+            "width": 320,
+            "height": 50
+        },
+        "sport": "football"
+    },
+    {
+        "config": "MPU_Win-Draw-1-0",
+        "size": {
+            "width": 300,
+            "height": 250
+        },
+        "sport": "football"
+    },
+    {
+        "config": "MPU_Win-Win-1-0",
+        "size": {
+            "width": 300,
+            "height": 250
+        },
+        "sport": "tennis"
+    },
+    {
+        "config": "Large-MPU_Win-Draw-1-0",
+        "size": {
+            "width": 300,
+            "height": 600
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Large-MPU_Win-Win-1-0",
+        "size": {
+            "width": 300,
+            "height": 600
+        },
+        "sport": "tennis"
+    },
+    {
+        "config": "Skyscraper_Win-Draw-1-0",
+        "size": {
+            "width": 160,
+            "height": 600
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Skyscraper_Win-Win-1-0",
+        "size": {
+            "width": 160,
+            "height": 600
+        },
+        "sport": "tennis"
+    },
+    {
+        "config": "Billboard_Win-Draw-1-0",
+        "size": {
+            "width": 970,
+            "height": 250
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Billboard_Win-Win-1-0",
+        "size": {
+            "width": 970,
+            "height": 250
+        },
+        "sport": "tennis"
+    },
+    {
+        "config": "Mobile-Leaderboard_Win-Draw-1-0",
+        "size": {
+            "width": 320,
+            "height": 50
+        },
+        "sport": "football"
+    },
+    {
+        "config": "Mobile-Leaderboard_Win-Win-1-0",
+        "size": {
+            "width": 320,
+            "height": 50
+        },
+        "sport": "tennis"
+    },
+    {
+        "config": "Small-Strapline_Win-Draw-1-0",
+        "size": {
+            "width": 480,
+            "height": 120
+        },
+        "sport": "football"
+    }
+]
